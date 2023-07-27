@@ -1,0 +1,10 @@
+{
+  "name": "idolicious-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "JewelryKim <jsjs21good@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "uvicorn main:app --reload"
+  }
+}
